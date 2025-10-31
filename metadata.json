@@ -1,0 +1,5 @@
+{
+  "name": "Frame Extractor",
+  "description": "An application that allows users to upload a video file, automatically extract all frames from the video, and display them sequentially in a gallery format for download.",
+  "requestFramePermissions": []
+}
